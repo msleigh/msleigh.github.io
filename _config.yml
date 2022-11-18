@@ -18,20 +18,33 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: msleigh
+title: msleigh's blog
+tagline: A blog
 email:
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Write an awesome description for your new site here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+author: msleigh
+twitter:
+    username: __msleigh__
+    card: summary
 twitter_username: __msleigh__
 github_username:  msleigh
+logo: /assets/msleigh.png
+social:
+    links:
+      - https://mastodon.online/@msleigh
+      - https://github.com/msleigh
+      - https://twitter.com/__msleigh__
+      - https://www.linkedin.com/in/michaelsleigh
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
