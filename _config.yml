@@ -47,6 +47,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-target-blank
 
 # Exclude from processing.
 # The following items will not be processed, by default.
