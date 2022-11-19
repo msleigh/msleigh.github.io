@@ -1,0 +1,6 @@
+<nav>
+  {% for item in site.data.navigation %}
+  <a href="{{ item.link }}" class="btn">{{ item.name }}</a>
+  {% endfor %}
+  <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+</nav>
