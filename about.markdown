@@ -11,7 +11,6 @@ I'm a physicist by background (I was previously the Group Leader for Computation
 Now I'm interested in programming, software engineering / software development, high-performance computing, numerical modelling, and computing and technology in general. My personal interests include playing classical guitar, music, hiking, gardening, and coding.
 
 You can find me on:
- - <a rel="me" href="https://mastodon.online/@msleigh">Mastodon</a>
- - [Twitter](https://twitter.com/__msleigh__)
- - [LinkedIn](https://www.linkedin.com/in/michaelsleigh)
- - [GitHub](https://github.com/msleigh)
+  {% for link in site.social.links %}
+  - <a rel="me" href="{{ link }}">{{ link | replace: "_", "\_" }}</a>
+  {% endfor %}
