@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Starting with Jekyll"
-description: "Post description"
+description: "Getting started with this Jekyll-based GitHub Pages blog"
 date:   2022-07-26 22:58:04 +0100
 author: msleigh
 categories: jekyll update

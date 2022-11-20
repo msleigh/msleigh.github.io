@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to get an external link icon (uses Iconify)"
-description: ""
+description: "Getting an external link icon on this Jekyll-based GitHub Pages blog"
 date:   2022-11-19 12:14:00 +0000
 author: msleigh
 categories: jekyll web

@@ -38,7 +38,7 @@ social:
       - https://github.com/msleigh
       - https://twitter.com/__msleigh__
       - https://www.linkedin.com/in/michaelsleigh
-show_excerpts: true
+show_excerpts: false
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0

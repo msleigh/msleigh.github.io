@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to get a favicon"
-description: ""
+description: "Getting a favicon working for this Jekyll-based GitHub Pages blog"
 date:   2022-11-18 22:58:04 +0100
 author: msleigh
 categories: jekyll web
