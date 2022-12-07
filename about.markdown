@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 I'm Michael, and I'm the Head of Integrated Forecast Systems at the [European Centre for Medium-Range Weather Forecasts](https://www.ecmwf.int).

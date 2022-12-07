@@ -6,3 +6,5 @@
   link: /about
 - name: Repositories
   link: /repositories
+- name: Documentation
+  link: /documentation
