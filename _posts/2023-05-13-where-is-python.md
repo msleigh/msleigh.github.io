@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Where is Python on macOS?"
-description: ""
+description: "Finding out where Python lives on macOS systems (using Homebrew)"
 date: 2023-05-14
 author: msleigh
 categories: python macos homebrew

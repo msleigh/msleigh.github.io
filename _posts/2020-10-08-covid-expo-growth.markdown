@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Not exponential?"
-description: ""
+description: "Exploring whether Covid-19 growth rates are exponential"
 date:  2020-10-08 22:29:00 +0000
 author: msleigh
 ---

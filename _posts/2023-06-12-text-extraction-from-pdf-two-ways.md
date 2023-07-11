@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Text extraction from PDF (with Python), two ways"
-description: ""
+description: "Documenting ways of extracting text from PDF files (with or without OCR) in Python"
 date:  2023-06-12 01:02:00 +0100
 author: msleigh
 ---
